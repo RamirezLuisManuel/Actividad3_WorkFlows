@@ -1,0 +1,14 @@
+# Ramirez Ramirez Luis Manuel
+name: First Push
+on:
+  push:
+
+  jobs: 
+    Tarea1:
+      runs-on: ubuntu-24.04
+
+      steps:
+        - name: Sasy Ayy
+          run: |
+            echo: "Hi my First Push"
+            echo: "My name Luis Manuel Ramirez"
