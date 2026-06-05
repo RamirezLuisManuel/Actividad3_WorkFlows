@@ -11,3 +11,11 @@ jobs:
     steps:
       - name: Say Hello
         run: echo "Hello World"
+
+      - name: Fecha Hoy
+        run: date
+
+      - name: Ver Carpetas
+        run: ls
+        
+        
