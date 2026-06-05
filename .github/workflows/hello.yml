@@ -16,6 +16,6 @@ jobs:
         run: date
 
       - name: Ver Carpetas
-        run: ls
+        run: pwd
         
         
