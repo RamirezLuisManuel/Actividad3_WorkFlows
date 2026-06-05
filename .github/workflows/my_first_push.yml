@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: Sasy Ayy
         run: |
-          echo: "Hi my First Push"
-          echo: "My name Luis Manuel Ramirez"
+          echo "Hi my First Push"
+          echo "My name Luis Manuel Ramirez"
